@@ -26,7 +26,7 @@
 {"to_read": "Y", "author": "Paul Auster", "title": "4 3 2 1", "year_read": 2023.0, "rating": 4.3, "comments": "Precioso libro, magistralmente escrito, con el marco de la am\u00e9rica (NY) de los a\u00f1os 60, 70, 80. Una maravilla para disfrutar.", "genre": "Fiction, novel"},
 {"to_read": "Y", "author": "Homer", "title": "La Iliada", "year_read": 2024.0, "rating": 4.5, "comments": "A must read, second time around.", "genre": "Fiction, novel, classics"},
 {"to_read": "Y", "author": "Homer", "title": "La Odisea", "year_read": 2024.0, "rating": 4.5, "comments": "A must read, second time around.", "genre": "Fiction, novel, classics"},
-{"to_read": "Y", "author": "Joseph Heller", "title": "Catch22", "year_read": 0.0, "genre": "Fiction, novel, history, Comedy"},
+{"to_read": "Y", "author": "Joseph Heller", "title": "Catch22", "year_read": 2024.0, "rating": 4.3, "comments": "Beautiful book, starts hilarious and non-sensical, and starts showing the drama of war, its effect on people, and the desertion of the state to its soldiers.", "genre": "Fiction, novel, history, Comedy"},
 {"to_read": "Y", "author": "Ernest Hemingway", "title": "For whom the bell tolls", "year_read": 2024.0, "rating": 4.5, "comments": "Beautifully writen, also a good look into our recen Spanish history. The senseless war, brutality, love, and beautiful narration.", "genre": "historical fiction"},
 {"to_read": "Y", "author": "Jordan Peterson", "title": "12 rules for life", "year_read": 0.0, "genre": "self-help"},
 {"to_read": "Y", "author": "Thich Nhat Hanh", "title": "Fear", "year_read": 0.0, "genre": "self-help"},
@@ -41,7 +41,7 @@
 {"to_read": "Y", "author": "Richard Dawkins", "title": "The god delusion", "year_read": 0.0},
 {"to_read": "Y", "author": "Richard Dawkins", "title": "The selfish gene", "year_read": 0.0},
 {"to_read": "Y", "author": "Seneca", "title": "El libro de Oro", "year_read": 2024.0, "rating": 4.5, "comments": "Libro que recoge muchas frases cortas de la sabidur\u00eda de Seneca. Mucho para aprovechar.", "genre": "self-help, classics, learn"},
-{"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 3 - The 4 part key", "genre": "fantasy"},
+{"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 3 - The 4 part key", "year_read": 2024.0, "rating": 2.5, "comments": "Dejo la serie es demasiado infantil.", "genre": "fantasy"},
 {"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 1 - The White tower", "year_read": 2023.0, "rating": 2.5, "genre": "fantasy"},
 {"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 2 - Plague of shadows", "year_read": 2023.0, "rating": 2.5, "genre": "fantasy"}
 ]
