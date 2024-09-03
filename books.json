@@ -43,5 +43,6 @@
 {"to_read": "Y", "author": "Seneca", "title": "El libro de Oro", "year_read": 2024.0, "rating": 4.5, "comments": "Libro que recoge muchas frases cortas de la sabidur\u00eda de Seneca. Mucho para aprovechar.", "genre": "self-help, classics, learn"},
 {"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 3 - The 4 part key", "year_read": 2024.0, "rating": 2.5, "comments": "Dejo la serie es demasiado infantil.", "genre": "fantasy"},
 {"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 1 - The White tower", "year_read": 2023.0, "rating": 2.5, "genre": "fantasy"},
-{"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 2 - Plague of shadows", "year_read": 2023.0, "rating": 2.5, "genre": "fantasy"}
+{"to_read": "Y", "author": "Michael Wisehart", "title": "Aldoran Chronicles 2 - Plague of shadows", "year_read": 2023.0, "rating": 2.5, "genre": "fantasy"},
+{"to_read": "Y", "author": "James Clear", "title": "Atomic Habits - Tiny Changes for Remarkable Results", "genre": "self-help"}
 ]
