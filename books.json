@@ -53,8 +53,8 @@
 {"to_read": "Y", "A": 46.0, "author": "James Clear", "title": "Atomic Habits - Tiny Changes for Remarkable Results", "year_read": 0.0, "genre": "self-help"},
 {"to_read": "Y", "A": 48.0, "author": "Marco Tulio Ciceron", "title": "Tusculanae Disputationes", "year_read": 0.0, "genre": "self-help, philosophy, learn"},
 {"to_read": "Y", "A": 54.0, "author": "Kosho Uchiyama", "title": "Opening the hand of thought", "year_read": 0.0, "comments": "Zazen learning"},
-{"to_read": "Y", "A": 55.0, "author": "Brandon Sanderson", "title": "Wind and Truth - Book 5 Stormlight archive", "year_read": 0.0, "comments": "Fantasy, fiction novel", "genre": "Fantasy, fiction novel"},
-{"to_read": "Y", "A": 56.0, "author": "Ursula K. LeGuin", "title": "A wizard of Earthsea", "year_read": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
-{"to_read": "Y", "A": 57.0, "author": "Ursula K. LeGuin", "title": "The tombs of Atuan", "year_read": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
-{"to_read": "Y", "A": 58.0, "author": "Ursula K. LeGuin", "title": "The Farthest shore", "year_read": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"}
+{"to_read": "N", "A": 55.0, "author": "Brandon Sanderson", "title": "Wind and Truth - Book 5 Stormlight archive", "year_read": 2025.0, "rating": 3.3, "comments": "Fantasy, fiction novel", "genre": "Fantasy, fiction novel"},
+{"to_read": "N", "A": 56.0, "author": "Ursula K. LeGuin", "title": "A wizard of Earthsea", "year_read": 2025.0, "rating": 4.2, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
+{"to_read": "Y", "A": 58.0, "author": "Ursula K. LeGuin", "title": "The Farthest shore", "year_read": 0.0, "rating": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
+{"to_read": "Y", "A": 57.0, "author": "Ursula K. LeGuin", "title": "The tombs of Atuan", "year_read": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"}
 ]
