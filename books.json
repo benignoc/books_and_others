@@ -40,7 +40,7 @@
 {"to_read": "Y", "A": 22.0, "author": "??", "title": "Deliberate Calm - How to lead and learn in a volatile world", "year_read": 0.0},
 {"to_read": "N", "A": 23.0, "author": "Elyahu Goldrat", "title": "Beyond the goal", "year_read": 0.0},
 {"to_read": "Y", "A": 24.0, "author": "Emmanuel Carrere", "title": "El adversario", "year_read": 0.0},
-{"to_read": "Y", "A": 30.0, "author": "Jordan Peterson", "title": "12 rules for life", "year_read": 0.0, "genre": "self-help"},
+{"to_read": "N", "A": "30.0", "author": "Jordan Peterson", "title": "12 rules for life", "year_read": "2025", "rating": "4.1", "comments": "Nice set of rules and beautiful essays within touching on tangent points. A bit too heavy on the religious catholic background, but its substantiated and correct without falling too much on using it as a crutch to support his way of thinking.", "genre": "self-help"},
 {"to_read": "Y", "A": 31.0, "author": "Thich Nhat Hanh", "title": "Fear", "year_read": 0.0, "genre": "self-help"},
 {"to_read": "Y", "A": 32.0, "author": "Tad Williams", "title": "OtherLand I,II,III", "year_read": 0.0},
 {"to_read": "N", "A": 33.0, "author": "Nemo Vaszi", "title": "Make it stick", "year_read": 0.0, "comments": "https://www.amazon.com/Make-Stick-Peter-Brown-Paperback/dp/B0CCCMPBV8?crid=UF39P2MHJ7C5&keywords=make+it+stick&qid=1690839988&sprefix=make+it+stick,aps,164&sr=8-1&linkCode=sl1&tag=flickthrough-20&linkId=e80c65c0853f6383b3db52c45cfaf0c1&language=en_US&ref_=as_li_ss_tl", "genre": "self-help, learning"},
@@ -55,6 +55,8 @@
 {"to_read": "Y", "A": 54.0, "author": "Kosho Uchiyama", "title": "Opening the hand of thought", "year_read": 0.0, "comments": "Zazen learning"},
 {"to_read": "N", "A": 55.0, "author": "Brandon Sanderson", "title": "Wind and Truth - Book 5 Stormlight archive", "year_read": 2025.0, "rating": 3.3, "comments": "Fantasy, fiction novel", "genre": "Fantasy, fiction novel"},
 {"to_read": "N", "A": 56.0, "author": "Ursula K. LeGuin", "title": "A wizard of Earthsea", "year_read": 2025.0, "rating": 4.2, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
-{"to_read": "Y", "A": 58.0, "author": "Ursula K. LeGuin", "title": "The Farthest shore", "year_read": 0.0, "rating": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
-{"to_read": "Y", "A": 57.0, "author": "Ursula K. LeGuin", "title": "The tombs of Atuan", "year_read": 0.0, "comments": "Rereading a classic of fantasy", "genre": "Fantasy"}
+{"to_read": "N", "A": "58.0", "author": "Ursula K. LeGuin", "title": "The Farthest shore", "year_read": "2025", "rating": "4.0", "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
+{"to_read": "N", "A": "57.0", "author": "Ursula K. LeGuin", "title": "The tombs of Atuan", "year_read": "2025", "rating": "4.0", "comments": "Rereading a classic of fantasy", "genre": "Fantasy"},
+{"to_read": "N", "A": "58", "author": "Rupert Spira", "title": "Being aware of being aware", "year_read": "2025", "rating": "4.0", "comments": "Meditation, awareness, good book explaining to occidentals what awareness is and its characteristics", "genre": "learn, self-help, meditation"},
+{"to_read": "N", "A": "59", "author": "Thich Nhat Hanh", "title": "Miracle of Mindfulness", "year_read": "2025", "rating": "4.5", "comments": "Rereading this book. Meditation learning, perhaps one of the best books I have read on this.", "genre": "self-help, meditation, learn"}
 ]
