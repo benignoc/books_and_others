@@ -92,5 +92,7 @@
 {"to_read": "N", "A": 90, "author": "Aldous Huxley", "title": "Brave New World", "year_read": "2026", "rating": "4.5", "comments": "Beautifully written with great ideas, presented in an intelligent and attractive fashion. Good way to present some of the trends in our current culture and making it clear they lead to childish unresponsible being.", "genre": "novel,dysthopian,classics"},
 {"to_read": "Y", "A": 91, "author": "Carl G Jung", "title": "Man and his symbols", "year_read": "", "rating": "", "comments": "", "genre": "learn,psychollogy"},
 {"to_read": "Y", "A": 92, "author": "Joshua Kingsman", "title": "Carl Jung Explained: His core theories, books & influence", "year_read": "", "rating": "", "comments": "", "genre": "learn,psychollogy"},
-{"to_read": "Y", "A": 93, "author": "William Shakespeare", "title": "A Midsummer Night's Dream", "year_read": "", "rating": "", "comments": "", "genre": "theater,classics"}
+{"to_read": "Y", "A": 93, "author": "William Shakespeare", "title": "A Midsummer Night's Dream", "year_read": "", "rating": "", "comments": "", "genre": "theater,classics"},
+{"to_read": "N", "A": "94", "author": "Antoine St.Exuperi", "title": "Le Petit Prince", "year_read": "2026", "rating": "4.4", "comments": "Beautifully crafted text to get back to your inner child. To review whats important without getting into the reasoning, but getting to you through strong emotions. Love every bit of it.", "genre": "philosophy,fable,kids"},
+{"to_read": "Y", "A": "95", "author": "Fyodr Dostoievsky", "title": "The Brothers Karamazov", "year_read": "", "rating": "", "comments": "", "genre": "novel,philosophy,classics"}
 ]
